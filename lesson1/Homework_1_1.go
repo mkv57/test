@@ -6,7 +6,7 @@ package main
 
 import "fmt"
 
-const w string = "Hello IT Academy"
+const w string = "Hello IT Academy !!!"
 
 func main() {
 
@@ -19,4 +19,4 @@ func main() {
 
 	fmt.Println(c, "\n", a, "\n", b, "\n", d)
 
-} // git
+}
